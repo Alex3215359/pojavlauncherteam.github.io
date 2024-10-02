@@ -1,3 +1,4 @@
+[Uploading latestlog.txt…]()
 # Installing the launcher
 
 ## Android
